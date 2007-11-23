@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{5A5DBACC-2E4C-424F-AE7B-E8FFF2753716}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APE", "APE\APE.csproj", "{65AA863F-6561-4DFC-B6C0-F268CBD16CAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A5DBACC-2E4C-424F-AE7B-E8FFF2753716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A5DBACC-2E4C-424F-AE7B-E8FFF2753716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A5DBACC-2E4C-424F-AE7B-E8FFF2753716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A5DBACC-2E4C-424F-AE7B-E8FFF2753716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65AA863F-6561-4DFC-B6C0-F268CBD16CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65AA863F-6561-4DFC-B6C0-F268CBD16CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65AA863F-6561-4DFC-B6C0-F268CBD16CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65AA863F-6561-4DFC-B6C0-F268CBD16CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
